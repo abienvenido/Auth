@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('America/Lima');
 
-/* Require */
+/* Require DESARROLLO */
 require_once 'lib/db/database.php';
 require_once 'lib/auth/auth.factory.php';
 require_once 'lib/mis_helpers.php';
